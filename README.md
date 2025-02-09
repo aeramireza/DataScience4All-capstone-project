@@ -8,4 +8,4 @@ A detailed description of the whole project and our results are in the file "Tea
     3.3 Exploring the Data, and
     4. The Model
 
-but feel free to check the whole report in order to have a general understanding of the project.
+but feel free to check the whole report (Team222_report.pdf can be downloaded) in order to have a general understanding of the project.
